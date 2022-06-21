@@ -1,0 +1,21 @@
+.btnstyle {
+    background: rgb(231, 57, 13);
+    border-radius: 30px;
+    height: 40px;
+    border: none;
+    color: white
+}
+
+.card-bg {
+    border-radius: 10px;
+    box-shadow: 1px 0px 5px 2px  rgb(233, 227, 227)
+
+}
+.assbg{
+      box-shadow: 1px 0px 5px 2px  rgb(233, 227, 227)
+}
+.imgstyle {
+    height: 160px;
+    border-radius: 10px;
+
+}

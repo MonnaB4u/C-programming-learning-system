@@ -1,0 +1,6 @@
+.dash{
+    transition: all 1.0s ease;
+    border-radius: 10px;
+    box-shadow: 2px 0px 10px 1px rgb(112, 106, 95);
+    /* rgba(0, 0, 255, 0.67); */
+}
